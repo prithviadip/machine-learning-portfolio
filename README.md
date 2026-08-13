@@ -2,7 +2,7 @@
 
 M.S. Artificial Intelligence student (4.0 GPA, Grand Canyon University, expected May 2027) who builds models from the math up. This repo collects coursework and independent projects where I implemented backpropagation by hand in NumPy, then trained convolutional, recurrent, and ensemble models in PyTorch, TensorFlow, and scikit-learn.
 
-📫 prithvi.paneer@gmail.com · [LinkedIn](https://linkedin.com/in/prithvi-adipudi) · Tampa, FL
+prithvi.paneer@gmail.com · [LinkedIn](https://linkedin.com/in/prithvi-adipudi) · Tampa, FL
 
 ---
 
@@ -10,11 +10,11 @@ M.S. Artificial Intelligence student (4.0 GPA, Grand Canyon University, expected
 
 | Project | Problem | Key Result | Stack |
 |---|---|---|---|
-| [Neural Network Design & Training](./neural-network-design-and-training) | Build a network from scratch, then benchmark it | 98.6% val. accuracy, 96.2% recall on breast cancer classification | NumPy, PyTorch |
-| [CIFAR-10 CNN](./cifar10-cnn) | Image classification, 10 classes | 80.8% accuracy, 0.805 macro F1 | TensorFlow/Keras |
-| [Automobile Price Prediction](./automobile-price-prediction) | Regression + feature selection | R² 0.863 → 0.882 (random forest) | scikit-learn, pandas |
-| [Model Evaluation](./model-evaluation) | Logistic Regression vs. Random Forest | 90.6% vs. 88.2% test accuracy | scikit-learn, pandas |
-| [Ensemble Methods](./ensemble-methods) | Single tree vs. bagging ensemble | CV accuracy 90.2% → 94.4% | scikit-learn, pandas |
+| [Neural Network Design & Training](neural-network-design-and-training/neural-network-design-and-training.ipynb) | Build a network from scratch, then benchmark it | 98.6% val. accuracy, 96.2% recall on breast cancer classification | NumPy, PyTorch |
+| [CIFAR-10 CNN](cifar10-cnn/cifar10-cnn.ipynb) | Image classification, 10 classes | 80.8% accuracy, 0.805 macro F1 | TensorFlow/Keras |
+| [Automobile Price Prediction](automobile-price-prediction/automobile-price-prediction.ipynb) | Regression + feature selection | R² 0.863 → 0.882 (random forest) | scikit-learn, pandas |
+| [Model Evaluation](model-evaluation/model-evaluation.ipynb) | Logistic Regression vs. Random Forest | 90.6% vs. 88.2% test accuracy | scikit-learn, pandas |
+| [Ensemble Methods](ensemble-methods/ensemble-methods.ipynb) | Single tree vs. bagging ensemble | CV accuracy 90.2% → 94.4% | scikit-learn, pandas |
 
 ---
 
